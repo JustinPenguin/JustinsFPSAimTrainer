@@ -1,5 +1,5 @@
 # JustinsFPSAimTrainer
-FPS aim trainer, intended to help gamers improve their aim in shooter games.
+An FPS aim trainer is a tool intended to help gamers improve their aim in shooter games.
 Compatible with both consoles and computers. Developed in Epic Games' UE4.
 
 This is Unique from any other published aim trainers in that it supports the use of consoles and controllers,
